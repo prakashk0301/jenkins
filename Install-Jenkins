@@ -37,3 +37,17 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 **create first admin user and password**
 Inst
+
+
+=====================
+Plugins for CI/CD activity:
+
+Jenkins dashboard -> manage jenkins -> plugin -> Available plugin -> search
+ - Pipeline maven integration
+ - deploy to container
+ - copy artifacts
+ - ssh agent
+
+
+
+
